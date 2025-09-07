@@ -1,11 +1,3 @@
-/*
-    Yunus Karatas
-    COP3014
-    Assignment 5
-    Rational Number class
-    4/5/2024
-*/
-
 //inlcude the files I need
 #include <iostream>
 #include "RationalsYK.h"
