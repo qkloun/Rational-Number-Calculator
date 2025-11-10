@@ -42,3 +42,20 @@ Built as part of COP3014 coursework, this project demonstrates:
 - **C++** (C++11 or later)
 - **Standard Library** (`iostream`)
 - Custom namespace implementation (`YK`)
+
+## 🤝 Contributing
+
+Contributions are welcome! Here are some ways you can help improve this project:
+
+### Enhancement Ideas
+
+- 📊 Add mixed number support (e.g., 1 1/2)
+- 🧮 Implement additional operations (power, root, absolute value)
+- 🎨 Create a GUI calculator interface
+- 📝 Add comprehensive unit tests
+- 🔄 Implement conversion to/from decimal
+- 📐 Add floating-point approximation method
+- 🌐 Support for arbitrarily large numerators/denominators (BigInt)
+- ⚡ Optimize operations for performance
+- 📚 Add more example programs
+- 🔍 Implement additional number theory functions (LCM, prime factorization)
